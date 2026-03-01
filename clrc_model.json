@@ -1,0 +1,49 @@
+{
+  "J_meV": 86.5,
+  "kT_300K": 25.0,
+  "barrier_scaling": "2(L-1)",
+  "target_L": {
+    "1e-6": 4,
+    "1e-12": 6
+  },
+  "n_physical_qubits": 192,
+  "k_logical": 21,
+  "max_T_K": 363.09029339490917,
+  "refinement": [
+    {
+      "L": 2,
+      "k_total": 9,
+      "k_boundary": 2,
+      "S_coarse": 2,
+      "n_qubits": 24
+    },
+    {
+      "L": 3,
+      "k_total": 15,
+      "k_boundary": 2,
+      "S_coarse": 2,
+      "n_qubits": 81
+    },
+    {
+      "L": 4,
+      "k_total": 21,
+      "k_boundary": 2,
+      "S_coarse": 2,
+      "n_qubits": 192
+    },
+    {
+      "L": 5,
+      "k_total": 27,
+      "k_boundary": 2,
+      "S_coarse": 2,
+      "n_qubits": 375
+    },
+    {
+      "L": 6,
+      "k_total": 33,
+      "k_boundary": 2,
+      "S_coarse": 2,
+      "n_qubits": 648
+    }
+  ]
+}

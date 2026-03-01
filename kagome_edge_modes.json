@@ -1,0 +1,137 @@
+{
+  "model": "Kagome + uniform NN flux",
+  "Phi": 1.5707963267948966,
+  "t_meV": 100.0,
+  "expected_gap_meV": 173.20508075688772,
+  "chern_C0": -1,
+  "chiral_confirmed": true,
+  "edge_localised": true,
+  "results": {
+    "20": {
+      "n_orbitals": 60,
+      "bulk_gap_meV": 173.9456007833472,
+      "edge_modes": [
+        {
+          "band": 19,
+          "E_meV": -173.37964029231944,
+          "bottom_weight": 0.9625118722002581,
+          "top_weight": 6.8020302806432185e-09,
+          "velocity": -49.84829313643968,
+          "chiral": "left",
+          "edge": "bottom"
+        },
+        {
+          "band": 20,
+          "E_meV": -39.47355682686569,
+          "bottom_weight": 5.812533734252568e-20,
+          "top_weight": 0.9995968409621006,
+          "velocity": 40.25486052174938,
+          "chiral": "right",
+          "edge": "top"
+        }
+      ],
+      "gap_span_pct": 115.19644268456966
+    },
+    "30": {
+      "n_orbitals": 90,
+      "bulk_gap_meV": 173.53088634746007,
+      "edge_modes": [
+        {
+          "band": 29,
+          "E_meV": -173.3796402789504,
+          "bottom_weight": 0.9625118646116724,
+          "top_weight": 1.199364949014595e-13,
+          "velocity": -49.84829285240994,
+          "chiral": "left",
+          "edge": "bottom"
+        },
+        {
+          "band": 30,
+          "E_meV": -39.47355682686567,
+          "bottom_weight": 3.5446643391951535e-31,
+          "top_weight": 0.9995968409621009,
+          "velocity": 40.254860521702994,
+          "chiral": "right",
+          "edge": "top"
+        }
+      ],
+      "gap_span_pct": 115.35220042241181
+    },
+    "40": {
+      "n_orbitals": 120,
+      "bulk_gap_meV": 173.38771704740935,
+      "edge_modes": [
+        {
+          "band": 39,
+          "E_meV": -173.37964027895012,
+          "bottom_weight": 0.9625118646114598,
+          "top_weight": 2.114774921709683e-18,
+          "velocity": -49.84829285239903,
+          "chiral": "left",
+          "edge": "bottom"
+        },
+        {
+          "band": 40,
+          "E_meV": -39.4735568268657,
+          "bottom_weight": 1.2275787797222057e-33,
+          "top_weight": 0.9995968409621008,
+          "velocity": 40.25486052170049,
+          "chiral": "right",
+          "edge": "top"
+        }
+      ],
+      "gap_span_pct": 115.40463459535748
+    },
+    "60": {
+      "n_orbitals": 180,
+      "bulk_gap_meV": 173.28570966903533,
+      "edge_modes": [
+        {
+          "band": 59,
+          "E_meV": -173.37964027895015,
+          "bottom_weight": 0.9625118646114585,
+          "top_weight": 6.574909051218261e-28,
+          "velocity": -49.84829285239903,
+          "chiral": "left",
+          "edge": "bottom"
+        },
+        {
+          "band": 60,
+          "E_meV": -39.4735568268657,
+          "bottom_weight": 5.066579424281682e-32,
+          "top_weight": 0.999596840962102,
+          "velocity": 40.25486052173824,
+          "chiral": "right",
+          "edge": "top"
+        }
+      ],
+      "gap_span_pct": 115.44151705661709
+    },
+    "80": {
+      "n_orbitals": 240,
+      "bulk_gap_meV": 173.2502830502459,
+      "edge_modes": [
+        {
+          "band": 79,
+          "E_meV": -173.3796402789502,
+          "bottom_weight": 0.962511864611459,
+          "top_weight": 2.044162171774098e-37,
+          "velocity": -49.84829285239903,
+          "chiral": "left",
+          "edge": "bottom"
+        },
+        {
+          "band": 80,
+          "E_meV": -39.47355682686568,
+          "bottom_weight": 1.9169745539597677e-31,
+          "top_weight": 0.9995968409621008,
+          "velocity": 40.254860521776436,
+          "chiral": "right",
+          "edge": "top"
+        }
+      ],
+      "gap_span_pct": 115.45410608004052
+    }
+  },
+  "elapsed_s": 12.301294088363647
+}
